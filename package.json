@@ -79,7 +79,7 @@
     "http": "0.0.0",
     "prop-types": "^15.5.9",
     "react-jsonschema-form": "^0.48.2",
-    "react-quill": "https://github.com/glownesWlc/react-quill.git^1.0.0-rc.2",
+    "react-quill": "https://github.com/glownesWlc/react-quill.git#wlcfix",
     "reconnecting-websocket": "^3.0.5",
     "rich-text": "^3.1.0",
     "sharedb": "^1.0.0-beta.7",
