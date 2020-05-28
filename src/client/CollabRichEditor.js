@@ -54,7 +54,7 @@ export default class CollabRichEditor extends Component {
 
     function load() {
       this.setState({ doc });
-      this._editor.getEditor().setContents(doc.data);
+      this._editor.getEditor().updateContents(doc.data);
     }
 
     function update(op, source) {
